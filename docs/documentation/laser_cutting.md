@@ -55,4 +55,4 @@ Always check the material before cutting.
 Never leave the machine unattended while it is running.
 Make sure the exhaust system is turned on to remove smoke.
 Keep the machine clean and free of flammable materials.
-Following these safety steps helps prevent accidents and ensures the machine works properly.
+Following these safety steps helps prevent accidents and ensures the machine works properly..
