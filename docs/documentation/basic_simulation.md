@@ -80,7 +80,7 @@ Current Regulation: The resistor acts as a barrier that resists the flow of elec
 
 Voltage Drop: It absorbs the extra voltage provided by the 9V battery, ensuring the LED only receives the forward voltage it requires.
 
-Component Longevity: By placing the resistor in series between the positive terminal of the 9V battery and the Anode of the LED, the circuit runs safely without overheating or destroying the LED.
+Component Longevity: By placing the resistor in series between the positive terminal of the 9V battery and the Anode of the LED, the circuit runs safely without overheating or destroying the LED..
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1p3yoHSbgaGqkUcjwyXZUuHJubMmuyK37&sz=w400" alt="Profile Photo">
 
