@@ -161,6 +161,5 @@ nav:
       - Overview: projects/index.md
       - "Project Template": projects/project-template.md
 
-YAML
 extra_css:
   - stylesheets/extra.css
