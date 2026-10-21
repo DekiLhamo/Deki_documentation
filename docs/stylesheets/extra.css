@@ -466,3 +466,11 @@ html {
 .md-footer {
   margin-top: 2rem;
 }
+
+CSS
+.md-content img {
+    border-radius: 0 !important;
+    border: none !important;
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
