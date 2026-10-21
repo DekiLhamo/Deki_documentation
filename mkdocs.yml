@@ -149,7 +149,7 @@ nav:
   - Documentation:
       - Overview: documentation/index.md
       - "Deploy to GitHub Pages": documentation/github-deployment.md
-      - "Expectation and Roles" : documentation/expectation.md
+      - Tech Trek Project : documentation/Tech_trek.md
       - Vinyl Cutting: documentation/Vinyl_cutting.md
       - Basic Simulation TinkerCad : documentation/basic_simulation.md
       - Inkscape : documentation/inkscape.md
